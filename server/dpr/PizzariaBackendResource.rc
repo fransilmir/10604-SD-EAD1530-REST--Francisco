@@ -1,0 +1,1 @@
+DB_INIT RCDATA "..\\resource\\db-init.sql"
